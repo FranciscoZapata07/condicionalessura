@@ -1,2 +1,7 @@
-# condicionalessura
-estructuras de control con python
+# Francisco Nohat Zapata Taborda
+## SURA FORMACIÓN
+###### PYTHON
+Proyecto con ejemplos de condicionales en PYTHON
+***
+- Condicional IF
+- Condicional ELIF
